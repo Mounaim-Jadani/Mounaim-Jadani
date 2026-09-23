@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mounaim-jadani/"><img src="https://img.shields.io/badge/-Mounaim%20Jadani-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/github/followers/mounaim-jadani?label=Follow&style=social" />
+  <a href="https://www.linkedin.com/in/TON_LIEN_LINKEDIN/"><img src="https://img.shields.io/badge/-Mounaim%20Jadani-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/github/followers/Mounaim-Jadani?label=Follow&style=social" />
   <a href="https://calendly.com/TON_LIEN_CALENDLY/30min"><img src="https://img.shields.io/badge/Book%20a%20Call-Calendly-46a2f1?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mounaim-jadani.mounaim-jadani" />
+  <img src="https://komarev.com/ghpvc/?username=Mounaim-Jadani&label=Profile%20Views&color=2E9EF7&style=flat" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Réserve un créneau si tu veux parler tech, web dev, IA... ou débattre du lore
 npx mounaim
 ```
 
-**👆 Cet outil terminal est disponible sur [npx mounaim](https://github.com/mounaim-jadani/npx_card)**
+**👆 Cet outil terminal est disponible sur [npx mounaim](https://github.com/Mounaim-Jadani/npx_card)**
 
 ---
 
@@ -115,13 +115,13 @@ const mounaim = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mounaim-jadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mounaim-jadani&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mounaim-Jadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mounaim-Jadani&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mounaim-jadani&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mounaim-jadani&theme=tokyo-night&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounaim-Jadani&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounaim-Jadani&theme=tokyo-night&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -134,11 +134,15 @@ const mounaim = {
 
 <!--
 NOTE POUR TOI (Mounaim) :
-1. Remplace "mounaim-jadani" partout par ton vrai username GitHub s'il est différent.
+1. ✅ Username GitHub "Mounaim-Jadani" déjà appliqué partout (stats, streak, top-langs,
+   activity graph, compteur de vues, npx card).
 2. Remplace le lien Calendly "TON_LIEN_CALENDLY" par le tien.
-3. Ajoute ton lien LinkedIn réel si besoin.
+3. Remplace "TON_LIEN_LINKEDIN" par ton vrai identifiant LinkedIn (ex: mounaim-jadani-123abc).
 4. Les badges github-readme-stats / streak-stats / activity-graph se mettent à jour
-   automatiquement — pas besoin d'action Waka comme dans l'exemple d'origine.
+   automatiquement — pas besoin d'action Waka comme dans l'exemple d'origine. S'ils
+   affichent encore une icône cassée une fois publié, c'est presque toujours parce que
+   le username ne correspond pas exactement à ton profil GitHub (casse comprise) ou
+   parce que le repo "Mounaim-Jadani/npx_card" n'existe pas encore.
 5. skillicons.dev est libre d'usage et léger, tu peux ajouter/retirer des icônes
    en éditant la liste après "i=".
 -->
