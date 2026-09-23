@@ -53,6 +53,22 @@
 
 ---
 
+### 🧑‍💻 About Me
+
+I'm a Full-Stack Digital Development Student & Future Software Engineer, currently in my 2nd year at ISGI Casablanca, with a strong specialization in the JavaScript/TypeScript ecosystem (React, React Native) and PHP (Laravel), complemented by hands-on expertise in AI integration — from prompt engineering with Gemini and Claude to weaving AI-assisted workflows directly into my development process.
+
+My path here has been unusually rigorous: after a Baccalauréat in Physical Sciences and a Baccalauréat Libre in Life & Earth Sciences, I'm now completing a second Baccalauréat Libre in Mathematical Sciences A — building the analytical foundation I rely on daily, whether I'm architecting a database schema or structuring a prompt.
+
+Right now I'm actively building complex web and mobile architectures. My flagship projects include **Binaa**, a real estate and construction management platform (React 19, WebGL, Zustand, Tailwind CSS, Laravel 12), and a full restaurant ordering system spanning PDA apps for waitstaff and a Kitchen Display System, built with React Native, Expo, and Laravel Sanctum.
+
+What sets me apart is the range I can operate across: I'm equally comfortable designing backend infrastructure and database logic as I am collaborating inside a development team — proven through my work alongside Yassine, Moaad, and Souleymane on Binaa. My scientific background gives me a structured, logical approach to both problem-solving and prompt engineering. My strongest technical asset is building complete ecosystems end-to-end: a secure, well-architected Laravel API (with Sanctum authentication) connected seamlessly to a performant, cross-platform React Native + Expo app, with Zustand handling state across the whole system.
+
+My near-term goal is to join the 3rd-year Professional Degree in Software Engineering at ESTEM Casablanca. Long-term, I'm working toward becoming a Software Engineer who can architect complex systems end-to-end — from backend infrastructure to cross-platform mobile deployment — with computer vision and AI woven throughout.
+
+I'm always open to technical collaborations, innovative project opportunities, and internships or missions that could support my transition into my 3rd year of software engineering.
+
+---
+
 ### 📫 Want to meet me?
 
 Pick a slot if you'd like to chat about tech, web dev, AI... or debate Hollow Knight lore 🦋 — just make sure to describe the agenda.
