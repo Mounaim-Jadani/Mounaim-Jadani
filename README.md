@@ -17,10 +17,36 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TON_LIEN_LINKEDIN/"><img src="https://img.shields.io/badge/-Mounaim%20Jadani-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mounaim-jadani/"><img src="https://img.shields.io/badge/-Jadani%20Mounaim-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/github/followers/Mounaim-Jadani?label=Follow&style=social" />
   <a href="https://calendly.com/TON_LIEN_CALENDLY/30min"><img src="https://img.shields.io/badge/Book%20a%20Call-Calendly-46a2f1?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Mounaim-Jadani&label=Profile%20Views&color=2E9EF7&style=flat" />
+</p>
+
+<h3 align="center">🔗 Connect & Follow</h3>
+
+<p align="center"><b>Professional</b></p>
+<p align="center">
+  <a href="https://github.com/Mounaim-Jadani"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://gitlab.com/Mounaim_Jadani"><img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /></a>
+  <a href="https://mounaim-jadani.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-2E9EF7?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:mounaimjadani2023@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><b>Social</b></p>
+<p align="center">
+  <a href="https://twitter.com/aayano_goat_"><img src="https://img.shields.io/badge/-@aayano__goat__-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/aayano_goat_"><img src="https://img.shields.io/badge/-@aayano__goat__-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://web.facebook.com/aura.ayanogoat"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://tiktok.com/@aayanogoat"><img src="https://img.shields.io/badge/-@aayanogoat-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+  <a href="https://youtube.com/@KING-yk7vz"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+</p>
+
+<p align="center"><b>Gaming</b></p>
+<p align="center">
+  <a href="https://steamcommunity.com/profiles/76561199800189638/"><img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/-Discord%3A%20ayanogoat__0-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Mobile%20Legends%3A%201746871003%20(4490)-FFC300?style=flat-square" />
 </p>
 
 ---
