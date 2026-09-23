@@ -1,27 +1,34 @@
-<h1 align="center">
+<table>
+<tr>
+<td width="70%" valign="top">
+
+<h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hey there 👋, I'm Mounaim Jadani!
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-<p align="center">
+<p>
   <em>Full-Stack Software Engineer (In-Training)
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   @ ISGI Casablanca 🇲🇦</em>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Full-Stack+Web+%26+Mobile+Developer;React+%2B+Laravel+%2B+Node.js+Enthusiast;Building+AI-powered+apps+with+Gemini+%26+Claude;Weightlifting+by+day%2C+Hollow+Knight+lore+by+night+%F0%9F%A6%8B" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Full-Stack+Web+%26+Mobile+Developer;React+%2B+Laravel+%2B+Node.js+Enthusiast;Building+AI-powered+apps+with+Gemini+%26+Claude;Weightlifting+by+day%2C+Hollow+Knight+lore+by+night+%F0%9F%A6%8B" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jadani-mounaim-02bb6432b/"><img src="https://img.shields.io/badge/-Jadani%20Mounaim-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/github/followers/Mounaim-Jadani?label=Follow&style=social" />
-  <a href="https://calendly.com/TON_LIEN_CALENDLY/30min"><img src="https://img.shields.io/badge/Book%20a%20Call-Calendly-46a2f1?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/jadani-mounaim-02bb6432b/"><img src="https://img.shields.io/badge/-Jadani%20Mounaim-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>&nbsp;
+  <img src="https://img.shields.io/github/followers/Mounaim-Jadani?label=Follow&style=social" />&nbsp;
+  <a href="https://calendly.com/TON_LIEN_CALENDLY/30min"><img src="https://img.shields.io/badge/Book%20a%20Call-Calendly-46a2f1?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Mounaim-Jadani&label=Profile%20Views&color=2E9EF7&style=flat" />
 </p>
+
+</td>
+<td width="30%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
+</td>
+</tr>
+</table>
 
 <h3 align="center">🔗 Connect & Follow</h3>
 
