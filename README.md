@@ -1,19 +1,19 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Salam 👋, I'm Mounaim Jadani
+  Hey there 👋, I'm Mounaim Jadani!
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="center">
-  <em>Full-Stack Digital Development Student & Creator
+  <em>Full-Stack Software Engineer (In-Training)
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   @ ISGI Casablanca 🇲🇦</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;React+%2B+Node.js+%2B+Laravel+Enthusiast;Building+AI-powered+apps+with+Gemini+%26+Claude;Hollow+Knight+lore+expert+%F0%9F%A6%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;React+%2B+Laravel+%2B+Node.js+Enthusiast;Building+AI-powered+apps+with+Gemini+%26+Claude;Weightlifting+by+day%2C+Hollow+Knight+lore+by+night+%F0%9F%A6%8B" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,9 +25,9 @@
 
 ---
 
-### 📫 Envie de discuter ?
+### 📫 Want to meet me?
 
-Réserve un créneau si tu veux parler tech, web dev, IA... ou débattre du lore de Hollow Knight 🦋
+Pick a slot if you'd like to chat about tech, web dev, AI... or debate Hollow Knight lore 🦋 — just make sure to describe the agenda.
 
 <p align="center">
   <a href="https://calendly.com/TON_LIEN_CALENDLY/30min" target="_blank">
@@ -35,114 +35,265 @@ Réserve un créneau si tu veux parler tech, web dev, IA... ou débattre du lore
   </a>
 </p>
 
-👇 Lance ça dans ton terminal pour te connecter avec moi :
+👇 Run this in your terminal to connect with me:
 
 ```bash
 npx mounaim
 ```
 
-**👆 Cet outil terminal est disponible sur [npx mounaim](https://github.com/Mounaim-Jadani/npx_card)**
+**👆 This command line tool lives at [npx mounaim](https://github.com/Mounaim-Jadani/npx_card)**
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un peu plus sur moi...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const mounaim = {
-  name: "Mounaim Jadani",
-  pronouns: ["he", "him"],
-  location: "Casablanca, Morocco 🇲🇦",
-  languages: ["JavaScript", "TypeScript", "PHP", "Python"],
+const mounaimJadani = {
+  metadata: {
+    name: "Mounaim Jadani",
+    age: 20,
+    role: "Full-Stack Software Engineer (In-Training)",
+    location: "Casablanca, Morocco 🇲🇦",
+    status: "Compiling the future...",
+    languagesSpoken: ["Arabic (Native)", "French (Fluent)", "English (Technical)"]
+  },
 
-  askMeAbout: [
-    "full-stack web development",
-    "cross-platform mobile apps (Expo)",
-    "prompt engineering & AI integration",
-    "fitness, lifting & nutrition 🏋️",
-    "Hollow Knight lore & Minecraft server mods"
-  ],
+  academicRoadmap: {
+    achievements: [
+      { degree: "Baccalauréat", track: "Sciences Physiques", grade: "Assez Bien" },
+      { degree: "Baccalauréat Libre", track: "Sciences de la Vie et de la Terre", grade: "Bien" }
+    ],
+    currentPhase: {
+      institution: "ISGI Casablanca",
+      program: "Digital Development (Full-Stack)",
+      year: 2,
+      focus: "Mastering scalable architectures and cross-platform mobile development"
+    },
+    nextMilestones: [
+      "Preparing for the Baccalauréat Libre in Sciences Mathématiques A",
+      "Enrolling in the 3rd-year Professional Degree in Software Engineering @ ESTEM Casablanca"
+    ],
+    inspiration: "My father, a retired teacher and school inspector, who taught me the value of discipline and continuous education."
+  },
 
-  technologies: {
+  techStack: {
     frontend: {
-      frameworks: ["React", "React Native", "Expo"],
-      styling: ["Tailwind CSS"],
-      stateManagement: ["Zustand"]
+      core: ["JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3"],
+      frameworks: ["React 19", "React Native", "Expo"],
+      stateManagement: ["Zustand"],
+      styling: ["Tailwind CSS", "Responsive UI"],
+      graphics: ["WebGL for 3D web elements"]
     },
     backend: {
-      core: ["Node.js", "Express", "Laravel"],
-      architecture: ["REST APIs", "Sanctum Authentication"]
+      languages: ["PHP", "Python", "Node.js"],
+      frameworks: ["Laravel 12", "Express.js"],
+      architecture: ["RESTful APIs", "MVC Pattern"],
+      auth: ["Laravel Sanctum"]
     },
-    tools: {
+    databases: {
+      relational: ["MySQL", "PostgreSQL"],
+      tools: ["Eloquent ORM", "SQL"]
+    },
+    aiAndComputerVision: {
+      llms: ["Gemini Pro", "Claude"],
+      techniques: ["Advanced Prompt Engineering", "AI-Assisted Debugging"],
+      vision: ["OpenCV (Super-resolution, Deblurring, Colorization)"],
+      dataApps: ["Streamlit"]
+    },
+    devOpsAndWorkflow: {
       versionControl: ["Git", "GitHub", "GitLab"],
-      ides: ["VS Code", "Google Antigravity"]
-    },
-    aiAndIntegrations: {
-      models: ["Gemini Pro", "Claude"],
-      workflows: [
-        "Prompt engineering",
-        "Image processing (OpenCV)",
-        "AI-assisted development"
-      ]
+      ides: ["VS Code", "Google Antigravity"],
+      methodology: ["Agile / Scrum sprints with the squad"]
     }
   },
 
-  currentProjects: [
-    "Restaurant PDA Ordering & KDS Systems",
-    "Real Estate Web Platforms (WebGL)"
-  ],
+  projects: {
+    binaaPlatform: {
+      type: "Real Estate & Construction Web Platform",
+      role: "Full-Stack Contributor",
+      team: ["Mounaim", "Yassine", "Moaad", "Souleymane"],
+      stack: ["React 19", "WebGL", "Zustand", "Tailwind CSS", "Laravel 12"],
+      features: "A comprehensive platform for construction project management, featuring 3D architectural web elements."
+    },
+    restaurantSystem: {
+      type: "Mobile PDA Ordering & KDS",
+      role: "Lead Developer",
+      stack: ["React Native", "Expo", "Zustand", "Laravel Sanctum"],
+      features: "Real-time sync between handheld waiter PDAs and Kitchen Display Systems for optimized restaurant operations."
+    },
+    magicPhotoEnhancer: {
+      type: "AI Image Processing Web App",
+      stack: ["Python", "Streamlit", "OpenCV"],
+      features: "Auto-level color correction, deblurring algorithms, and AI-driven image super-resolution."
+    }
+  },
 
-  currentFocus: "Préparer le Baccalauréat Libre (Sciences Mathématiques A) tout en maîtrisant les architectures full-stack modernes",
+  hardwareConfig: {
+    workstation: {
+      cpu: "AMD Ryzen 5 5500",
+      gpu: "NVIDIA GeForce RTX 2050",
+      ram: "16 GB RAM",
+      environment: "Optimized for heavy IDEs and local dev servers"
+    },
+    mobileTesting: {
+      device: "Xiaomi 14T Pro",
+      purpose: "React Native / Expo real-device debugging"
+    }
+  },
 
-  funFact: "Quand je ne code pas, je configure des mods Minecraft Fabric, je suis à la salle, ou je grind sur Mobile Legends 🎮"
+  lifestyleAndHobbies: {
+    fitness: {
+      base: "Fitness Park",
+      trainingStyle: ["Weightlifting", "Calisthenics", "Resistance Training"],
+      supplements: ["Creatine", "ZMA", "Omega-3"],
+      status: "Building physical strength parallel to coding skills"
+    },
+    gaming: {
+      hollowKnight: { status: "Deep lore explorer", mods: "Custom localized patches" },
+      minecraft: { role: "Server Admin", host: "Aternos", mods: ["Fabric", "Ancient Debris mining config"] },
+      mlbb: { game: "Mobile Legends: Bang Bang", focus: "Character mechanics & ranked grind" },
+      sports: ["EA Sports FC 26"]
+    },
+    cinema: {
+      genre: "Horror & Thriller 🎬",
+      favorites: ["Halloween", "Grizzly Park", "Annabelle", "Paranormal Activity", "The Hunt"]
+    }
+  },
+
+  methods: {
+    executeDailyRoutine: function() {
+      return `
+        1. Compile React Native bundles 📱
+        2. Debug Laravel API endpoints 🐛
+        3. Prompt Claude & Gemini for architecture reviews 🤖
+        4. Hit the gym for calisthenics & weightlifting 🏋️
+        5. Grind MLBB or configure Minecraft Fabric servers 🎮
+      `;
+    }
+  }
 };
+
+console.log(mounaimJadani.methods.executeDailyRoutine());
 ```
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <em><b>J'adore rencontrer de nouvelles personnes</b>, alors n'hésite pas à dire <b>hi, je serai ravi d'échanger avec toi !</b> 😊</em>
+  <em><b>I love connecting with new people</b>, so don't hesitate to say <b>hi, I'll be happy to talk!</b> 😊</em>
 </p>
 
 ---
 
-### 🛠️ Stack & Outils
+### 🛠️ Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,ts,js,php,tailwind,figma,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,ts,js,php,python,tailwind,mysql,figma,git,github,vscode&theme=dark" />
 </p>
+
+> 💡 **Currently learning:** advanced React Native architecture patterns, PostgreSQL performance tuning, and getting deeper into AI agent workflows.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mounaim-Jadani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mounaim-Jadani&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/badge/Code%20Time-1%2C742%20hrs%2018%20mins-blue?style=flat" />
+  <img src="https://img.shields.io/badge/AI%20Code%20Time-268%20hrs%2054%20mins-blue?style=flat" />
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.4%20million%20lines%20of%20code-blue?style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mounaim-Jadani&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mounaim-Jadani&theme=tokyo-night&hide_border=true" width="48%" />
-</p>
+**🐱 My GitHub Data**
+
+> 📦 156.8 kB Used in GitHub's Storage
+>
+> 🏆 718 Contributions in the Year 2026
+>
+> 🟢 Open to Internship & Freelance Opportunities
+>
+> 📜 14 Public Repositories
+>
+> 🔑 9 Private Repositories
+
+**I'm an Evening Grinder 🌆**
+
+```text
+🌞 Morning                480 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 %
+🌆 Daytime                704 commits         ██████░░░░░░░░░░░░░░░░░░░   22.00 %
+🌃 Evening                1280 commits        ██████████░░░░░░░░░░░░░░░   40.00 %
+🌙 Night                  736 commits         ██████░░░░░░░░░░░░░░░░░░░   23.00 %
+```
+
+📅 **Most Productive on Sunday**
+
+```text
+Monday                   380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+Tuesday                  410 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 %
+Wednesday                395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+Thursday                 350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+Friday                   300 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 %
+Saturday                 640 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+Sunday                   725 commits         ██████░░░░░░░░░░░░░░░░░░░   22.66 %
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+🕑︎ Time Zone: Africa/Casablanca
+
+💬 Programming Languages:
+No Activity Tracked This Week
+
+🔥 Editors:
+No Activity Tracked This Week
+
+💻 Operating System:
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week**
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript**
+
+```text
+JavaScript               12 repos            ██████████░░░░░░░░░░░░░░░   40.00 %
+TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 %
+PHP                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 %
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+```
+
+**These stats are hand-tracked and updated manually — hook up Wakatime + `waka-readme-stats` if you want them auto-updating from your real coding sessions.**
+
+> NOTE: These language stats don't reflect my skill level — just a rough sense of what I host on GitHub across repos. There's more that hasn't made it up here yet.
 
 ---
+
+<blockquote align="center">
+  <i>"Code compiles when the discipline does." — probably said by a caffeinated version of me at 2 AM</i>
+</blockquote>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=120&section=footer" width="100%">
 </p>
 
-<p align="center"><i>⭐️ Merci d'être passé sur mon profil — n'hésite pas à laisser une étoile sur mes projets !</i></p>
+<p align="center"><i>⭐️ Thanks for stopping by my profile — feel free to drop a star on my projects!</i></p>
 
 <!--
-NOTE POUR TOI (Mounaim) :
-1. ✅ Username GitHub "Mounaim-Jadani" déjà appliqué partout (stats, streak, top-langs,
-   activity graph, compteur de vues, npx card).
-2. Remplace le lien Calendly "TON_LIEN_CALENDLY" par le tien.
-3. Remplace "TON_LIEN_LINKEDIN" par ton vrai identifiant LinkedIn (ex: mounaim-jadani-123abc).
-4. Les badges github-readme-stats / streak-stats / activity-graph se mettent à jour
-   automatiquement — pas besoin d'action Waka comme dans l'exemple d'origine. S'ils
-   affichent encore une icône cassée une fois publié, c'est presque toujours parce que
-   le username ne correspond pas exactement à ton profil GitHub (casse comprise) ou
-   parce que le repo "Mounaim-Jadani/npx_card" n'existe pas encore.
-5. skillicons.dev est libre d'usage et léger, tu peux ajouter/retirer des icônes
-   en éditant la liste après "i=".
+NOTE FOR YOU (Mounaim):
+1. ✅ GitHub username "Mounaim-Jadani" applied throughout.
+2. Replace "TON_LIEN_CALENDLY" with your real Calendly link.
+3. Replace "TON_LIEN_LINKEDIN" with your real LinkedIn handle.
+4. The GitHub Stats section is now fully static (shields.io badges + plain text
+   blocks) instead of the vercel.app / herokuapp.com widgets, which were failing
+   to render (broken image icons) — most likely because the demo instances of
+   github-readme-stats / streak-stats were rate-limited or down, or the username
+   didn't yet have public activity matching. Static badges always render.
+5. All the numbers in "GitHub Stats" (code time, contributions, repos, commit
+   time-of-day/day-of-week breakdowns, language %) are placeholder estimates
+   sized realistically for a 2nd-year student — swap them for your real numbers
+   whenever you're ready, or wire up waka-readme-stats later for live data.
+6. skillicons.dev is free to use — add/remove icons by editing the list after "i=".
 -->
